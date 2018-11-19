@@ -1,0 +1,1863 @@
+Seed -499651 has an odd bird
+Seed -499593 has an odd bird
+Seed -498998 has an odd bird
+Seed -497904 has an odd bird
+Seed -497797 has an odd bird
+Seed -497483 has an odd bird
+Seed -496918 has an odd bird
+Seed -496882 has an odd bird
+Seed -496316 has an odd bird
+Seed -495825 has an odd bird
+Seed -495734 has an odd bird
+Seed -495492 has an odd bird
+Seed -494829 has an odd bird
+Seed -493534 has an odd bird
+Seed -493164 has an odd bird
+Seed -492709 has an odd bird
+Seed -492695 has an odd bird
+Seed -492658 has an odd bird
+Seed -492513 has an odd bird
+Seed -492278 has an odd bird
+Seed -491484 has an odd bird
+Seed -491154 has an odd bird
+Seed -491056 does not have an odd bird
+Seed -489970 has an odd bird
+Seed -489614 has an odd bird
+Seed -489417 has an odd bird
+Seed -488416 does not have an odd bird
+Seed -488246 has an odd bird
+Seed -487072 has an odd bird
+Seed -487007 has an odd bird
+Seed -486529 has an odd bird
+Seed -486273 has an odd bird
+Seed -485983 does not have an odd bird
+Seed -485766 does not have an odd bird
+Seed -485689 has an odd bird
+Seed -484925 has an odd bird
+Seed -484648 has an odd bird
+Seed -484644 does not have an odd bird
+Seed -484455 has an odd bird
+Seed -483932 has an odd bird
+Seed -483888 has an odd bird
+Seed -483481 has an odd bird
+Seed -483156 has an odd bird
+Seed -482671 has an odd bird
+Seed -482648 has an odd bird
+Seed -482233 has an odd bird
+Seed -482127 does not have an odd bird
+Seed -481337 has an odd bird
+Seed -480866 has an odd bird
+Seed -480748 does not have an odd bird
+Seed -480318 has an odd bird
+Seed -480287 does not have an odd bird
+Seed -479882 has an odd bird
+Seed -479819 has an odd bird
+Seed -479044 has an odd bird
+Seed -478974 has an odd bird
+Seed -476486 has an odd bird
+Seed -476441 has an odd bird
+Seed -476140 does not have an odd bird
+Seed -475878 has an odd bird
+Seed -475450 does not have an odd bird
+Seed -474616 has an odd bird
+Seed -474286 has an odd bird
+Seed -473994 does not have an odd bird
+Seed -473955 has an odd bird
+Seed -472771 does not have an odd bird
+Seed -472642 has an odd bird
+Seed -471632 does not have an odd bird
+Seed -471141 does not have an odd bird
+Seed -471037 has an odd bird
+Seed -469393 has an odd bird
+Seed -469375 has an odd bird
+Seed -468578 has an odd bird
+Seed -468200 does not have an odd bird
+Seed -466259 does not have an odd bird
+Seed -465872 has an odd bird
+Seed -464720 does not have an odd bird
+Seed -464424 does not have an odd bird
+Seed -464414 does not have an odd bird
+Seed -462586 has an odd bird
+Seed -462286 has an odd bird
+Seed -462171 has an odd bird
+Seed -462026 has an odd bird
+Seed -461577 has an odd bird
+Seed -461053 has an odd bird
+Seed -460798 does not have an odd bird
+Seed -460230 has an odd bird
+Seed -459561 does not have an odd bird
+Seed -459036 has an odd bird
+Seed -458706 has an odd bird
+Seed -458004 has an odd bird
+Seed -457470 has an odd bird
+Seed -457244 does not have an odd bird
+Seed -457114 has an odd bird
+Seed -456451 has an odd bird
+Seed -456286 has an odd bird
+Seed -455922 has an odd bird
+Seed -455266 has an odd bird
+Seed -455083 has an odd bird
+Seed -454862 has an odd bird
+Seed -454195 has an odd bird
+Seed -453859 has an odd bird
+Seed -452818 has an odd bird
+Seed -452755 has an odd bird
+Seed -452667 has an odd bird
+Seed -452405 has an odd bird
+Seed -452346 has an odd bird
+Seed -451758 has an odd bird
+Seed -451739 has an odd bird
+Seed -451688 has an odd bird
+Seed -450854 does not have an odd bird
+Seed -450471 has an odd bird
+Seed -449093 has an odd bird
+Seed -448717 does not have an odd bird
+Seed -448038 has an odd bird
+Seed -447472 has an odd bird
+Seed -447404 has an odd bird
+Seed -447001 has an odd bird
+Seed -446236 has an odd bird
+Seed -446067 has an odd bird
+Seed -445533 has an odd bird
+Seed -444384 has an odd bird
+Seed -442179 has an odd bird
+Seed -441343 has an odd bird
+Seed -440743 does not have an odd bird
+Seed -440142 has an odd bird
+Seed -439227 does not have an odd bird
+Seed -438635 has an odd bird
+Seed -438237 has an odd bird
+Seed -437591 has an odd bird
+Seed -436617 has an odd bird
+Seed -436310 has an odd bird
+Seed -435998 has an odd bird
+Seed -435953 has an odd bird
+Seed -435189 has an odd bird
+Seed -434600 has an odd bird
+Seed -434047 has an odd bird
+Seed -433764 has an odd bird
+Seed -433734 has an odd bird
+Seed -433343 has an odd bird
+Seed -433342 has an odd bird
+Seed -433223 has an odd bird
+Seed -433149 has an odd bird
+Seed -431793 has an odd bird
+Seed -431144 has an odd bird
+Seed -430666 does not have an odd bird
+Seed -430591 has an odd bird
+Seed -430522 has an odd bird
+Seed -430267 has an odd bird
+Seed -429958 has an odd bird
+Seed -429928 has an odd bird
+Seed -429687 does not have an odd bird
+Seed -429369 has an odd bird
+Seed -429272 does not have an odd bird
+Seed -428997 has an odd bird
+Seed -428642 has an odd bird
+Seed -426978 has an odd bird
+Seed -426805 has an odd bird
+Seed -426369 has an odd bird
+Seed -425956 has an odd bird
+Seed -425751 has an odd bird
+Seed -424124 has an odd bird
+Seed -423696 has an odd bird
+Seed -421723 has an odd bird
+Seed -421029 has an odd bird
+Seed -421015 has an odd bird
+Seed -420969 has an odd bird
+Seed -420467 has an odd bird
+Seed -420385 has an odd bird
+Seed -420139 has an odd bird
+Seed -419882 does not have an odd bird
+Seed -417871 does not have an odd bird
+Seed -417839 has an odd bird
+Seed -417450 has an odd bird
+Seed -417081 has an odd bird
+Seed -417044 does not have an odd bird
+Seed -416834 does not have an odd bird
+Seed -416411 has an odd bird
+Seed -415081 has an odd bird
+Seed -414124 has an odd bird
+Seed -413176 has an odd bird
+Seed -412564 has an odd bird
+Seed -411888 does not have an odd bird
+Seed -411587 has an odd bird
+Seed -411492 has an odd bird
+Seed -410854 has an odd bird
+Seed -410398 has an odd bird
+Seed -409921 has an odd bird
+Seed -409552 has an odd bird
+Seed -409345 does not have an odd bird
+Seed -409341 does not have an odd bird
+Seed -409195 has an odd bird
+Seed -408836 has an odd bird
+Seed -408549 does not have an odd bird
+Seed -407701 has an odd bird
+Seed -406695 has an odd bird
+Seed -406693 has an odd bird
+Seed -406548 has an odd bird
+Seed -406162 has an odd bird
+Seed -405474 does not have an odd bird
+Seed -404764 has an odd bird
+Seed -403748 does not have an odd bird
+Seed -403566 has an odd bird
+Seed -402660 has an odd bird
+Seed -401937 has an odd bird
+Seed -401660 has an odd bird
+Seed -401134 has an odd bird
+Seed -400661 does not have an odd bird
+Seed -400551 has an odd bird
+Seed -400411 does not have an odd bird
+Seed -400297 does not have an odd bird
+Seed -400086 has an odd bird
+Seed -399402 has an odd bird
+Seed -399383 has an odd bird
+Seed -399283 has an odd bird
+Seed -399175 has an odd bird
+Seed -397581 has an odd bird
+Seed -397443 has an odd bird
+Seed -396683 has an odd bird
+Seed -396071 has an odd bird
+Seed -395567 has an odd bird
+Seed -395124 has an odd bird
+Seed -394943 has an odd bird
+Seed -394218 does not have an odd bird
+Seed -393758 has an odd bird
+Seed -391906 does not have an odd bird
+Seed -391802 has an odd bird
+Seed -391253 has an odd bird
+Seed -391117 has an odd bird
+Seed -391015 does not have an odd bird
+Seed -389106 has an odd bird
+Seed -388891 does not have an odd bird
+Seed -387547 does not have an odd bird
+Seed -386505 has an odd bird
+Seed -386308 has an odd bird
+Seed -385450 has an odd bird
+Seed -385304 has an odd bird
+Seed -385134 has an odd bird
+Seed -385075 has an odd bird
+Seed -384021 has an odd bird
+Seed -383601 does not have an odd bird
+Seed -383521 has an odd bird
+Seed -383018 has an odd bird
+Seed -380980 has an odd bird
+Seed -380317 has an odd bird
+Seed -380269 has an odd bird
+Seed -379830 has an odd bird
+Seed -379553 has an odd bird
+Seed -379067 does not have an odd bird
+Seed -378931 does not have an odd bird
+Seed -378468 has an odd bird
+Seed -377720 has an odd bird
+Seed -377344 does not have an odd bird
+Seed -377123 has an odd bird
+Seed -376938 has an odd bird
+Seed -376514 has an odd bird
+Seed -376249 has an odd bird
+Seed -375694 has an odd bird
+Seed -375687 has an odd bird
+Seed -375143 has an odd bird
+Seed -372432 does not have an odd bird
+Seed -372265 has an odd bird
+Seed -372187 has an odd bird
+Seed -371746 has an odd bird
+Seed -371332 has an odd bird
+Seed -369408 has an odd bird
+Seed -368143 does not have an odd bird
+Seed -367805 has an odd bird
+Seed -367003 has an odd bird
+Seed -366720 does not have an odd bird
+Seed -366505 does not have an odd bird
+Seed -366160 does not have an odd bird
+Seed -366086 has an odd bird
+Seed -365177 does not have an odd bird
+Seed -364782 has an odd bird
+Seed -363936 does not have an odd bird
+Seed -363731 has an odd bird
+Seed -363418 has an odd bird
+Seed -363342 has an odd bird
+Seed -363091 does not have an odd bird
+Seed -362730 has an odd bird
+Seed -361779 does not have an odd bird
+Seed -361500 has an odd bird
+Seed -360854 has an odd bird
+Seed -360781 has an odd bird
+Seed -359528 does not have an odd bird
+Seed -358931 has an odd bird
+Seed -356546 does not have an odd bird
+Seed -356266 has an odd bird
+Seed -356094 has an odd bird
+Seed -355262 has an odd bird
+Seed -355236 has an odd bird
+Seed -355144 has an odd bird
+Seed -355101 does not have an odd bird
+Seed -354140 has an odd bird
+Seed -353630 has an odd bird
+Seed -353249 does not have an odd bird
+Seed -353241 does not have an odd bird
+Seed -351622 has an odd bird
+Seed -351511 has an odd bird
+Seed -350337 has an odd bird
+Seed -350313 has an odd bird
+Seed -347000 does not have an odd bird
+Seed -346134 has an odd bird
+Seed -343722 has an odd bird
+Seed -343244 has an odd bird
+Seed -342650 has an odd bird
+Seed -342456 has an odd bird
+Seed -341802 has an odd bird
+Seed -341188 has an odd bird
+Seed -341135 has an odd bird
+Seed -341116 has an odd bird
+Seed -340786 has an odd bird
+Seed -340234 has an odd bird
+Seed -340026 has an odd bird
+Seed -339351 has an odd bird
+Seed -338967 does not have an odd bird
+Seed -338085 has an odd bird
+Seed -337931 has an odd bird
+Seed -336981 has an odd bird
+Seed -336112 does not have an odd bird
+Seed -335326 has an odd bird
+Seed -335307 does not have an odd bird
+Seed -335031 has an odd bird
+Seed -334547 has an odd bird
+Seed -333507 has an odd bird
+Seed -332836 has an odd bird
+Seed -332180 has an odd bird
+Seed -332094 has an odd bird
+Seed -332060 does not have an odd bird
+Seed -328489 has an odd bird
+Seed -328468 has an odd bird
+Seed -328446 has an odd bird
+Seed -327748 has an odd bird
+Seed -327684 does not have an odd bird
+Seed -327603 has an odd bird
+Seed -327301 has an odd bird
+Seed -327022 has an odd bird
+Seed -326650 has an odd bird
+Seed -325961 has an odd bird
+Seed -325022 has an odd bird
+Seed -324752 has an odd bird
+Seed -324089 does not have an odd bird
+Seed -324028 has an odd bird
+Seed -323817 has an odd bird
+Seed -323716 has an odd bird
+Seed -323618 has an odd bird
+Seed -323584 does not have an odd bird
+Seed -323068 has an odd bird
+Seed -322847 does not have an odd bird
+Seed -322759 has an odd bird
+Seed -322286 has an odd bird
+Seed -321517 has an odd bird
+Seed -321226 has an odd bird
+Seed -320863 has an odd bird
+Seed -320266 has an odd bird
+Seed -319588 has an odd bird
+Seed -319393 has an odd bird
+Seed -317851 does not have an odd bird
+Seed -317360 has an odd bird
+Seed -317213 has an odd bird
+Seed -316945 has an odd bird
+Seed -315358 does not have an odd bird
+Seed -314990 has an odd bird
+Seed -313853 has an odd bird
+Seed -313770 does not have an odd bird
+Seed -312516 has an odd bird
+Seed -312425 has an odd bird
+Seed -312354 does not have an odd bird
+Seed -312247 does not have an odd bird
+Seed -311972 has an odd bird
+Seed -311850 has an odd bird
+Seed -311598 has an odd bird
+Seed -311548 has an odd bird
+Seed -311316 does not have an odd bird
+Seed -309433 has an odd bird
+Seed -308326 has an odd bird
+Seed -308281 has an odd bird
+Seed -308158 has an odd bird
+Seed -306774 has an odd bird
+Seed -306621 does not have an odd bird
+Seed -306081 has an odd bird
+Seed -305615 has an odd bird
+Seed -305211 has an odd bird
+Seed -305071 has an odd bird
+Seed -304408 does not have an odd bird
+Seed -304312 has an odd bird
+Seed -303014 has an odd bird
+Seed -302585 has an odd bird
+Seed -302109 has an odd bird
+Seed -301399 has an odd bird
+Seed -300634 has an odd bird
+Seed -300426 has an odd bird
+Seed -299963 has an odd bird
+Seed -299777 has an odd bird
+Seed -298665 has an odd bird
+Seed -298290 has an odd bird
+Seed -298090 does not have an odd bird
+Seed -297955 has an odd bird
+Seed -297142 has an odd bird
+Seed -295848 does not have an odd bird
+Seed -295650 does not have an odd bird
+Seed -295149 has an odd bird
+Seed -295120 has an odd bird
+Seed -294874 has an odd bird
+Seed -293721 has an odd bird
+Seed -293092 has an odd bird
+Seed -292839 does not have an odd bird
+Seed -292548 has an odd bird
+Seed -292515 does not have an odd bird
+Seed -291978 has an odd bird
+Seed -291199 has an odd bird
+Seed -290888 has an odd bird
+Seed -288933 has an odd bird
+Seed -287140 has an odd bird
+Seed -286082 has an odd bird
+Seed -282617 does not have an odd bird
+Seed -282519 has an odd bird
+Seed -281563 has an odd bird
+Seed -281458 does not have an odd bird
+Seed -280010 has an odd bird
+Seed -278843 has an odd bird
+Seed -278711 has an odd bird
+Seed -278653 has an odd bird
+Seed -278303 has an odd bird
+Seed -277757 has an odd bird
+Seed -277536 has an odd bird
+Seed -277420 has an odd bird
+Seed -277213 has an odd bird
+Seed -276815 has an odd bird
+Seed -274693 has an odd bird
+Seed -274574 has an odd bird
+Seed -274132 does not have an odd bird
+Seed -274038 has an odd bird
+Seed -273943 has an odd bird
+Seed -273477 has an odd bird
+Seed -272981 does not have an odd bird
+Seed -272604 has an odd bird
+Seed -272134 has an odd bird
+Seed -272050 has an odd bird
+Seed -272048 does not have an odd bird
+Seed -271611 does not have an odd bird
+Seed -271186 has an odd bird
+Seed -271101 does not have an odd bird
+Seed -269784 has an odd bird
+Seed -269639 does not have an odd bird
+Seed -268676 has an odd bird
+Seed -268591 has an odd bird
+Seed -267223 has an odd bird
+Seed -264706 has an odd bird
+Seed -263971 does not have an odd bird
+Seed -263931 does not have an odd bird
+Seed -263888 has an odd bird
+Seed -263463 has an odd bird
+Seed -263385 has an odd bird
+Seed -263208 has an odd bird
+Seed -262051 has an odd bird
+Seed -261910 does not have an odd bird
+Seed -261511 does not have an odd bird
+Seed -260891 has an odd bird
+Seed -260213 has an odd bird
+Seed -259963 has an odd bird
+Seed -259457 has an odd bird
+Seed -259147 has an odd bird
+Seed -258319 has an odd bird
+Seed -256868 has an odd bird
+Seed -256776 has an odd bird
+Seed -256470 has an odd bird
+Seed -255571 has an odd bird
+Seed -254732 has an odd bird
+Seed -254655 has an odd bird
+Seed -254273 does not have an odd bird
+Seed -253609 does not have an odd bird
+Seed -253594 has an odd bird
+Seed -253134 has an odd bird
+Seed -253133 has an odd bird
+Seed -252941 has an odd bird
+Seed -252567 does not have an odd bird
+Seed -252509 has an odd bird
+Seed -251682 has an odd bird
+Seed -251612 does not have an odd bird
+Seed -251268 has an odd bird
+Seed -250479 does not have an odd bird
+Seed -250047 has an odd bird
+Seed -249403 has an odd bird
+Seed -249281 has an odd bird
+Seed -248892 has an odd bird
+Seed -248268 has an odd bird
+Seed -247409 has an odd bird
+Seed -247214 has an odd bird
+Seed -245545 has an odd bird
+Seed -245312 has an odd bird
+Seed -245259 has an odd bird
+Seed -244557 has an odd bird
+Seed -244381 has an odd bird
+Seed -243515 has an odd bird
+Seed -243428 has an odd bird
+Seed -243353 has an odd bird
+Seed -243282 does not have an odd bird
+Seed -243123 has an odd bird
+Seed -242916 has an odd bird
+Seed -242460 has an odd bird
+Seed -242257 does not have an odd bird
+Seed -241847 has an odd bird
+Seed -241255 has an odd bird
+Seed -240948 does not have an odd bird
+Seed -240908 has an odd bird
+Seed -240787 does not have an odd bird
+Seed -240619 has an odd bird
+Seed -238920 does not have an odd bird
+Seed -238575 does not have an odd bird
+Seed -238567 has an odd bird
+Seed -238364 has an odd bird
+Seed -237278 has an odd bird
+Seed -236618 does not have an odd bird
+Seed -236608 has an odd bird
+Seed -236159 has an odd bird
+Seed -235539 has an odd bird
+Seed -234754 does not have an odd bird
+Seed -234680 has an odd bird
+Seed -234115 has an odd bird
+Seed -233607 does not have an odd bird
+Seed -233367 has an odd bird
+Seed -232992 has an odd bird
+Seed -232883 has an odd bird
+Seed -232847 has an odd bird
+Seed -232643 does not have an odd bird
+Seed -232480 has an odd bird
+Seed -232432 has an odd bird
+Seed -231889 has an odd bird
+Seed -230870 has an odd bird
+Seed -230387 has an odd bird
+Seed -230060 has an odd bird
+Seed -229575 has an odd bird
+Seed -229423 does not have an odd bird
+Seed -229291 has an odd bird
+Seed -228842 has an odd bird
+Seed -228492 has an odd bird
+Seed -228304 has an odd bird
+Seed -227332 has an odd bird
+Seed -225352 has an odd bird
+Seed -224917 has an odd bird
+Seed -224726 has an odd bird
+Seed -224354 has an odd bird
+Seed -224236 has an odd bird
+Seed -223771 does not have an odd bird
+Seed -223447 has an odd bird
+Seed -222869 does not have an odd bird
+Seed -221472 does not have an odd bird
+Seed -221274 has an odd bird
+Seed -221226 has an odd bird
+Seed -221145 does not have an odd bird
+Seed -220369 has an odd bird
+Seed -218668 has an odd bird
+Seed -218376 has an odd bird
+Seed -218025 has an odd bird
+Seed -217279 has an odd bird
+Seed -216815 does not have an odd bird
+Seed -216658 has an odd bird
+Seed -215181 has an odd bird
+Seed -214957 has an odd bird
+Seed -214750 does not have an odd bird
+Seed -214233 has an odd bird
+Seed -214221 has an odd bird
+Seed -212595 does not have an odd bird
+Seed -212438 has an odd bird
+Seed -212102 has an odd bird
+Seed -211647 has an odd bird
+Seed -211525 has an odd bird
+Seed -211307 does not have an odd bird
+Seed -210439 has an odd bird
+Seed -209582 has an odd bird
+Seed -208199 has an odd bird
+Seed -207954 has an odd bird
+Seed -207149 does not have an odd bird
+Seed -206653 has an odd bird
+Seed -206609 has an odd bird
+Seed -206600 has an odd bird
+Seed -206372 does not have an odd bird
+Seed -205822 has an odd bird
+Seed -205454 has an odd bird
+Seed -205389 has an odd bird
+Seed -204995 has an odd bird
+Seed -204727 has an odd bird
+Seed -204433 has an odd bird
+Seed -204241 has an odd bird
+Seed -202499 has an odd bird
+Seed -202214 has an odd bird
+Seed -202081 has an odd bird
+Seed -201237 has an odd bird
+Seed -200397 has an odd bird
+Seed -200090 has an odd bird
+Seed -199832 does not have an odd bird
+Seed -198970 has an odd bird
+Seed -198747 does not have an odd bird
+Seed -198433 has an odd bird
+Seed -197827 has an odd bird
+Seed -197074 has an odd bird
+Seed -196621 has an odd bird
+Seed -196542 has an odd bird
+Seed -195337 has an odd bird
+Seed -194838 has an odd bird
+Seed -194771 has an odd bird
+Seed -193434 has an odd bird
+Seed -192603 has an odd bird
+Seed -192418 does not have an odd bird
+Seed -191388 has an odd bird
+Seed -191082 has an odd bird
+Seed -190624 has an odd bird
+Seed -190375 has an odd bird
+Seed -189547 has an odd bird
+Seed -189199 has an odd bird
+Seed -188685 has an odd bird
+Seed -188277 has an odd bird
+Seed -187786 does not have an odd bird
+Seed -187704 does not have an odd bird
+Seed -187454 has an odd bird
+Seed -186867 does not have an odd bird
+Seed -186703 has an odd bird
+Seed -186570 has an odd bird
+Seed -186492 has an odd bird
+Seed -186077 has an odd bird
+Seed -185913 has an odd bird
+Seed -185897 has an odd bird
+Seed -185262 has an odd bird
+Seed -184807 has an odd bird
+Seed -184703 has an odd bird
+Seed -183903 has an odd bird
+Seed -180981 has an odd bird
+Seed -178906 has an odd bird
+Seed -178694 has an odd bird
+Seed -178034 has an odd bird
+Seed -177796 does not have an odd bird
+Seed -177220 has an odd bird
+Seed -176859 has an odd bird
+Seed -176687 does not have an odd bird
+Seed -176544 has an odd bird
+Seed -176309 has an odd bird
+Seed -176262 has an odd bird
+Seed -175793 does not have an odd bird
+Seed -175349 does not have an odd bird
+Seed -175067 has an odd bird
+Seed -174420 does not have an odd bird
+Seed -174183 has an odd bird
+Seed -173976 has an odd bird
+Seed -172896 has an odd bird
+Seed -172510 does not have an odd bird
+Seed -172209 has an odd bird
+Seed -171841 has an odd bird
+Seed -171736 has an odd bird
+Seed -171555 has an odd bird
+Seed -170489 does not have an odd bird
+Seed -170386 has an odd bird
+Seed -170107 has an odd bird
+Seed -169521 has an odd bird
+Seed -168101 has an odd bird
+Seed -167731 does not have an odd bird
+Seed -166059 has an odd bird
+Seed -164544 does not have an odd bird
+Seed -163811 has an odd bird
+Seed -162906 has an odd bird
+Seed -162692 has an odd bird
+Seed -162364 does not have an odd bird
+Seed -161273 has an odd bird
+Seed -160557 has an odd bird
+Seed -159238 has an odd bird
+Seed -159084 does not have an odd bird
+Seed -157403 does not have an odd bird
+Seed -157377 has an odd bird
+Seed -156633 has an odd bird
+Seed -156020 does not have an odd bird
+Seed -155577 has an odd bird
+Seed -155147 has an odd bird
+Seed -154044 has an odd bird
+Seed -153974 does not have an odd bird
+Seed -152229 has an odd bird
+Seed -151823 has an odd bird
+Seed -150630 has an odd bird
+Seed -150605 has an odd bird
+Seed -150568 has an odd bird
+Seed -149851 has an odd bird
+Seed -149193 has an odd bird
+Seed -146925 has an odd bird
+Seed -146768 does not have an odd bird
+Seed -145973 has an odd bird
+Seed -145085 has an odd bird
+Seed -144690 has an odd bird
+Seed -144654 has an odd bird
+Seed -144174 has an odd bird
+Seed -143553 has an odd bird
+Seed -143062 has an odd bird
+Seed -142124 has an odd bird
+Seed -142118 has an odd bird
+Seed -141782 does not have an odd bird
+Seed -140934 has an odd bird
+Seed -140485 has an odd bird
+Seed -139756 has an odd bird
+Seed -138204 does not have an odd bird
+Seed -137309 does not have an odd bird
+Seed -136387 has an odd bird
+Seed -135946 has an odd bird
+Seed -135119 has an odd bird
+Seed -134734 has an odd bird
+Seed -134609 has an odd bird
+Seed -134214 does not have an odd bird
+Seed -133946 does not have an odd bird
+Seed -133315 has an odd bird
+Seed -132391 does not have an odd bird
+Seed -132263 has an odd bird
+Seed -131574 has an odd bird
+Seed -130319 has an odd bird
+Seed -129123 has an odd bird
+Seed -128652 has an odd bird
+Seed -127981 has an odd bird
+Seed -127874 has an odd bird
+Seed -127015 has an odd bird
+Seed -126361 has an odd bird
+Seed -125842 does not have an odd bird
+Seed -125556 has an odd bird
+Seed -125152 has an odd bird
+Seed -124991 does not have an odd bird
+Seed -124149 does not have an odd bird
+Seed -124045 has an odd bird
+Seed -123982 has an odd bird
+Seed -123633 has an odd bird
+Seed -123527 has an odd bird
+Seed -123011 does not have an odd bird
+Seed -121578 has an odd bird
+Seed -120900 does not have an odd bird
+Seed -120377 has an odd bird
+Seed -119743 does not have an odd bird
+Seed -119471 has an odd bird
+Seed -118394 has an odd bird
+Seed -118152 has an odd bird
+Seed -118097 has an odd bird
+Seed -118074 has an odd bird
+Seed -117889 has an odd bird
+Seed -117767 has an odd bird
+Seed -117703 has an odd bird
+Seed -117682 has an odd bird
+Seed -116525 has an odd bird
+Seed -116330 has an odd bird
+Seed -116307 has an odd bird
+Seed -115618 does not have an odd bird
+Seed -115527 has an odd bird
+Seed -114621 has an odd bird
+Seed -114333 has an odd bird
+Seed -113266 has an odd bird
+Seed -113131 has an odd bird
+Seed -112870 does not have an odd bird
+Seed -112521 has an odd bird
+Seed -112141 has an odd bird
+Seed -111885 has an odd bird
+Seed -111516 does not have an odd bird
+Seed -110331 has an odd bird
+Seed -108695 has an odd bird
+Seed -108352 has an odd bird
+Seed -108282 has an odd bird
+Seed -108105 does not have an odd bird
+Seed -107754 does not have an odd bird
+Seed -106455 has an odd bird
+Seed -106071 has an odd bird
+Seed -105799 does not have an odd bird
+Seed -105435 has an odd bird
+Seed -105079 has an odd bird
+Seed -105023 has an odd bird
+Seed -103610 has an odd bird
+Seed -102081 has an odd bird
+Seed -101796 does not have an odd bird
+Seed -101119 has an odd bird
+Seed -100283 has an odd bird
+Seed -100188 has an odd bird
+Seed -99531 has an odd bird
+Seed -98419 has an odd bird
+Seed -97730 has an odd bird
+Seed -97102 has an odd bird
+Seed -95912 has an odd bird
+Seed -95370 has an odd bird
+Seed -94702 does not have an odd bird
+Seed -94533 has an odd bird
+Seed -93361 has an odd bird
+Seed -92899 does not have an odd bird
+Seed -92186 has an odd bird
+Seed -91426 has an odd bird
+Seed -89050 has an odd bird
+Seed -88158 has an odd bird
+Seed -87753 has an odd bird
+Seed -87304 has an odd bird
+Seed -86586 has an odd bird
+Seed -85327 has an odd bird
+Seed -85147 has an odd bird
+Seed -83794 has an odd bird
+Seed -83628 has an odd bird
+Seed -83333 has an odd bird
+Seed -83099 has an odd bird
+Seed -82481 has an odd bird
+Seed -82442 has an odd bird
+Seed -82298 has an odd bird
+Seed -81812 has an odd bird
+Seed -81542 has an odd bird
+Seed -80683 does not have an odd bird
+Seed -80143 has an odd bird
+Seed -79852 has an odd bird
+Seed -78161 has an odd bird
+Seed -77914 does not have an odd bird
+Seed -77704 has an odd bird
+Seed -77230 has an odd bird
+Seed -76833 has an odd bird
+Seed -75645 has an odd bird
+Seed -74965 has an odd bird
+Seed -74766 has an odd bird
+Seed -74368 has an odd bird
+Seed -71704 does not have an odd bird
+Seed -69213 has an odd bird
+Seed -69145 has an odd bird
+Seed -67989 has an odd bird
+Seed -67143 has an odd bird
+Seed -66661 has an odd bird
+Seed -65854 has an odd bird
+Seed -64639 has an odd bird
+Seed -64501 has an odd bird
+Seed -64352 has an odd bird
+Seed -64302 has an odd bird
+Seed -63667 has an odd bird
+Seed -61969 has an odd bird
+Seed -61546 has an odd bird
+Seed -61471 has an odd bird
+Seed -61326 has an odd bird
+Seed -61298 does not have an odd bird
+Seed -60715 has an odd bird
+Seed -60645 has an odd bird
+Seed -60642 has an odd bird
+Seed -60575 has an odd bird
+Seed -59803 has an odd bird
+Seed -59374 has an odd bird
+Seed -59270 has an odd bird
+Seed -58898 does not have an odd bird
+Seed -58824 has an odd bird
+Seed -58053 has an odd bird
+Seed -57132 has an odd bird
+Seed -56807 has an odd bird
+Seed -56494 does not have an odd bird
+Seed -56148 has an odd bird
+Seed -55190 has an odd bird
+Seed -54462 has an odd bird
+Seed -54083 has an odd bird
+Seed -53690 has an odd bird
+Seed -53319 has an odd bird
+Seed -52730 has an odd bird
+Seed -52435 does not have an odd bird
+Seed -50174 does not have an odd bird
+Seed -50016 does not have an odd bird
+Seed -49498 has an odd bird
+Seed -47723 has an odd bird
+Seed -47402 does not have an odd bird
+Seed -47052 has an odd bird
+Seed -46441 has an odd bird
+Seed -45432 does not have an odd bird
+Seed -45178 has an odd bird
+Seed -45054 has an odd bird
+Seed -44954 has an odd bird
+Seed -44319 has an odd bird
+Seed -43924 has an odd bird
+Seed -43803 has an odd bird
+Seed -43246 has an odd bird
+Seed -43161 has an odd bird
+Seed -42603 has an odd bird
+Seed -42219 does not have an odd bird
+Seed -40645 has an odd bird
+Seed -40347 has an odd bird
+Seed -39880 does not have an odd bird
+Seed -39336 has an odd bird
+Seed -39334 has an odd bird
+Seed -37795 has an odd bird
+Seed -37127 has an odd bird
+Seed -36018 has an odd bird
+Seed -35714 has an odd bird
+Seed -35519 has an odd bird
+Seed -35042 has an odd bird
+Seed -34647 has an odd bird
+Seed -33918 does not have an odd bird
+Seed -33742 has an odd bird
+Seed -31581 has an odd bird
+Seed -30033 has an odd bird
+Seed -29896 does not have an odd bird
+Seed -29781 does not have an odd bird
+Seed -29394 has an odd bird
+Seed -28547 has an odd bird
+Seed -28218 has an odd bird
+Seed -28003 has an odd bird
+Seed -27947 has an odd bird
+Seed -27218 has an odd bird
+Seed -27151 has an odd bird
+Seed -25521 has an odd bird
+Seed -25391 has an odd bird
+Seed -24808 has an odd bird
+Seed -24586 does not have an odd bird
+Seed -24377 has an odd bird
+Seed -24113 has an odd bird
+Seed -22933 has an odd bird
+Seed -22927 does not have an odd bird
+Seed -22846 does not have an odd bird
+Seed -22419 has an odd bird
+Seed -21293 has an odd bird
+Seed -20857 has an odd bird
+Seed -20070 has an odd bird
+Seed -19069 has an odd bird
+Seed -18558 has an odd bird
+Seed -18368 has an odd bird
+Seed -17851 has an odd bird
+Seed -17096 has an odd bird
+Seed -16976 has an odd bird
+Seed -16164 has an odd bird
+Seed -15943 has an odd bird
+Seed -15705 has an odd bird
+Seed -14146 does not have an odd bird
+Seed -13529 has an odd bird
+Seed -13075 has an odd bird
+Seed -12762 has an odd bird
+Seed -12509 does not have an odd bird
+Seed -12381 has an odd bird
+Seed -12306 has an odd bird
+Seed -12259 has an odd bird
+Seed -11956 has an odd bird
+Seed -9290 has an odd bird
+Seed -8558 has an odd bird
+Seed -8074 has an odd bird
+Seed -7694 has an odd bird
+Seed -4965 does not have an odd bird
+Seed -3981 has an odd bird
+Seed -3076 has an odd bird
+Seed -3038 has an odd bird
+Seed -2656 has an odd bird
+Seed -2526 has an odd bird
+Seed -2392 does not have an odd bird
+Seed -778 does not have an odd bird
+Seed -173 has an odd bird
+Seed 10 has an odd bird
+Seed 190 has an odd bird
+Seed 397 has an odd bird
+Seed 520 has an odd bird
+Seed 1163 does not have an odd bird
+Seed 1264 does not have an odd bird
+Seed 1309 has an odd bird
+Seed 1646 has an odd bird
+Seed 3118 has an odd bird
+Seed 3254 has an odd bird
+Seed 3481 does not have an odd bird
+Seed 4132 has an odd bird
+Seed 4574 has an odd bird
+Seed 4722 does not have an odd bird
+Seed 5426 has an odd bird
+Seed 5609 has an odd bird
+Seed 5722 has an odd bird
+Seed 6007 has an odd bird
+Seed 6727 does not have an odd bird
+Seed 7017 has an odd bird
+Seed 7551 has an odd bird
+Seed 8091 has an odd bird
+Seed 8550 has an odd bird
+Seed 9451 has an odd bird
+Seed 10667 has an odd bird
+Seed 11778 has an odd bird
+Seed 11919 has an odd bird
+Seed 12226 does not have an odd bird
+Seed 12241 does not have an odd bird
+Seed 12720 has an odd bird
+Seed 13380 has an odd bird
+Seed 15530 does not have an odd bird
+Seed 16250 has an odd bird
+Seed 16637 has an odd bird
+Seed 17076 has an odd bird
+Seed 18246 has an odd bird
+Seed 19587 has an odd bird
+Seed 21681 has an odd bird
+Seed 21760 has an odd bird
+Seed 21769 has an odd bird
+Seed 22297 has an odd bird
+Seed 24376 has an odd bird
+Seed 24523 has an odd bird
+Seed 24555 does not have an odd bird
+Seed 24957 has an odd bird
+Seed 25163 has an odd bird
+Seed 25438 has an odd bird
+Seed 25482 does not have an odd bird
+Seed 26109 has an odd bird
+Seed 26676 has an odd bird
+Seed 27493 has an odd bird
+Seed 27630 has an odd bird
+Seed 28675 has an odd bird
+Seed 29534 has an odd bird
+Seed 29615 has an odd bird
+Seed 29828 does not have an odd bird
+Seed 31899 does not have an odd bird
+Seed 31962 has an odd bird
+Seed 32964 has an odd bird
+Seed 33093 does not have an odd bird
+Seed 33220 has an odd bird
+Seed 33415 has an odd bird
+Seed 33877 has an odd bird
+Seed 34289 has an odd bird
+Seed 34372 has an odd bird
+Seed 34555 has an odd bird
+Seed 34979 has an odd bird
+Seed 36004 does not have an odd bird
+Seed 36190 has an odd bird
+Seed 36218 has an odd bird
+Seed 36296 does not have an odd bird
+Seed 37486 has an odd bird
+Seed 37539 has an odd bird
+Seed 37962 has an odd bird
+Seed 38002 has an odd bird
+Seed 38491 has an odd bird
+Seed 38711 does not have an odd bird
+Seed 39709 has an odd bird
+Seed 41277 has an odd bird
+Seed 41456 has an odd bird
+Seed 41548 has an odd bird
+Seed 41663 does not have an odd bird
+Seed 42286 has an odd bird
+Seed 43557 has an odd bird
+Seed 43967 has an odd bird
+Seed 44676 does not have an odd bird
+Seed 44815 has an odd bird
+Seed 44918 has an odd bird
+Seed 44947 has an odd bird
+Seed 45077 has an odd bird
+Seed 45088 does not have an odd bird
+Seed 45865 has an odd bird
+Seed 46818 has an odd bird
+Seed 47868 has an odd bird
+Seed 47973 has an odd bird
+Seed 48841 has an odd bird
+Seed 49055 has an odd bird
+Seed 49308 has an odd bird
+Seed 49748 has an odd bird
+Seed 49904 has an odd bird
+Seed 50575 has an odd bird
+Seed 51847 has an odd bird
+Seed 53672 does not have an odd bird
+Seed 54391 has an odd bird
+Seed 55125 has an odd bird
+Seed 55536 has an odd bird
+Seed 55946 does not have an odd bird
+Seed 56256 has an odd bird
+Seed 56415 has an odd bird
+Seed 56443 has an odd bird
+Seed 56762 has an odd bird
+Seed 57868 does not have an odd bird
+Seed 58389 has an odd bird
+Seed 58702 does not have an odd bird
+Seed 58991 has an odd bird
+Seed 59481 does not have an odd bird
+Seed 59672 has an odd bird
+Seed 59713 has an odd bird
+Seed 60898 has an odd bird
+Seed 62604 has an odd bird
+Seed 62611 has an odd bird
+Seed 63135 does not have an odd bird
+Seed 64030 has an odd bird
+Seed 64242 has an odd bird
+Seed 64322 does not have an odd bird
+Seed 64531 does not have an odd bird
+Seed 64697 does not have an odd bird
+Seed 65116 has an odd bird
+Seed 65731 has an odd bird
+Seed 65778 has an odd bird
+Seed 66093 has an odd bird
+Seed 67168 does not have an odd bird
+Seed 67453 has an odd bird
+Seed 67458 has an odd bird
+Seed 67989 has an odd bird
+Seed 68087 has an odd bird
+Seed 68531 has an odd bird
+Seed 68940 has an odd bird
+Seed 68943 does not have an odd bird
+Seed 69112 has an odd bird
+Seed 69216 has an odd bird
+Seed 69469 has an odd bird
+Seed 69589 does not have an odd bird
+Seed 69773 has an odd bird
+Seed 69895 has an odd bird
+Seed 70016 does not have an odd bird
+Seed 70790 has an odd bird
+Seed 71029 does not have an odd bird
+Seed 71447 does not have an odd bird
+Seed 72262 has an odd bird
+Seed 72561 has an odd bird
+Seed 73431 has an odd bird
+Seed 73859 has an odd bird
+Seed 74776 has an odd bird
+Seed 75221 has an odd bird
+Seed 76166 has an odd bird
+Seed 78795 has an odd bird
+Seed 79698 has an odd bird
+Seed 81702 does not have an odd bird
+Seed 82587 has an odd bird
+Seed 82766 has an odd bird
+Seed 83799 has an odd bird
+Seed 83917 has an odd bird
+Seed 84535 has an odd bird
+Seed 85355 has an odd bird
+Seed 85798 has an odd bird
+Seed 86717 has an odd bird
+Seed 86863 has an odd bird
+Seed 86886 has an odd bird
+Seed 87153 has an odd bird
+Seed 87235 has an odd bird
+Seed 87563 has an odd bird
+Seed 88157 has an odd bird
+Seed 88588 does not have an odd bird
+Seed 90187 does not have an odd bird
+Seed 90234 has an odd bird
+Seed 90436 has an odd bird
+Seed 90636 has an odd bird
+Seed 91296 has an odd bird
+Seed 93196 does not have an odd bird
+Seed 93434 has an odd bird
+Seed 94107 has an odd bird
+Seed 94342 has an odd bird
+Seed 94868 does not have an odd bird
+Seed 95304 has an odd bird
+Seed 96217 has an odd bird
+Seed 96528 does not have an odd bird
+Seed 96681 has an odd bird
+Seed 97136 does not have an odd bird
+Seed 97865 has an odd bird
+Seed 97950 has an odd bird
+Seed 98650 has an odd bird
+Seed 100254 has an odd bird
+Seed 100363 has an odd bird
+Seed 100459 has an odd bird
+Seed 100772 does not have an odd bird
+Seed 101251 has an odd bird
+Seed 101330 has an odd bird
+Seed 101475 has an odd bird
+Seed 102535 has an odd bird
+Seed 102652 has an odd bird
+Seed 103624 does not have an odd bird
+Seed 104726 has an odd bird
+Seed 104874 has an odd bird
+Seed 104925 has an odd bird
+Seed 105807 has an odd bird
+Seed 106780 has an odd bird
+Seed 106995 does not have an odd bird
+Seed 107496 has an odd bird
+Seed 107513 has an odd bird
+Seed 107708 does not have an odd bird
+Seed 108877 has an odd bird
+Seed 109077 does not have an odd bird
+Seed 109278 has an odd bird
+Seed 109288 has an odd bird
+Seed 110078 has an odd bird
+Seed 110172 has an odd bird
+Seed 110327 has an odd bird
+Seed 110783 has an odd bird
+Seed 111411 does not have an odd bird
+Seed 111424 has an odd bird
+Seed 111794 has an odd bird
+Seed 112430 has an odd bird
+Seed 112798 does not have an odd bird
+Seed 113982 does not have an odd bird
+Seed 114247 has an odd bird
+Seed 114305 has an odd bird
+Seed 115406 does not have an odd bird
+Seed 115752 has an odd bird
+Seed 116418 has an odd bird
+Seed 116631 has an odd bird
+Seed 117439 does not have an odd bird
+Seed 117677 has an odd bird
+Seed 120292 has an odd bird
+Seed 120518 has an odd bird
+Seed 121206 has an odd bird
+Seed 121307 has an odd bird
+Seed 121980 has an odd bird
+Seed 122530 has an odd bird
+Seed 122593 has an odd bird
+Seed 123296 has an odd bird
+Seed 124146 has an odd bird
+Seed 124451 has an odd bird
+Seed 124577 does not have an odd bird
+Seed 125399 has an odd bird
+Seed 125875 has an odd bird
+Seed 126690 has an odd bird
+Seed 126906 has an odd bird
+Seed 127639 has an odd bird
+Seed 128099 has an odd bird
+Seed 128802 does not have an odd bird
+Seed 129331 has an odd bird
+Seed 129432 has an odd bird
+Seed 130390 has an odd bird
+Seed 130665 has an odd bird
+Seed 131403 has an odd bird
+Seed 132000 has an odd bird
+Seed 132741 has an odd bird
+Seed 132999 does not have an odd bird
+Seed 133485 does not have an odd bird
+Seed 133867 has an odd bird
+Seed 134071 does not have an odd bird
+Seed 136382 has an odd bird
+Seed 136852 has an odd bird
+Seed 137064 has an odd bird
+Seed 137737 has an odd bird
+Seed 137965 has an odd bird
+Seed 138801 has an odd bird
+Seed 139200 has an odd bird
+Seed 139894 has an odd bird
+Seed 140103 has an odd bird
+Seed 140432 has an odd bird
+Seed 140487 has an odd bird
+Seed 141780 has an odd bird
+Seed 142226 has an odd bird
+Seed 142936 does not have an odd bird
+Seed 143453 has an odd bird
+Seed 143503 does not have an odd bird
+Seed 143605 has an odd bird
+Seed 144697 has an odd bird
+Seed 145116 has an odd bird
+Seed 145553 has an odd bird
+Seed 145878 has an odd bird
+Seed 146103 has an odd bird
+Seed 146583 does not have an odd bird
+Seed 146888 has an odd bird
+Seed 147202 does not have an odd bird
+Seed 147485 has an odd bird
+Seed 147565 has an odd bird
+Seed 148156 does not have an odd bird
+Seed 148177 has an odd bird
+Seed 148240 has an odd bird
+Seed 148933 has an odd bird
+Seed 149329 has an odd bird
+Seed 149858 has an odd bird
+Seed 149943 has an odd bird
+Seed 149990 has an odd bird
+Seed 150407 has an odd bird
+Seed 151646 has an odd bird
+Seed 152599 has an odd bird
+Seed 153232 has an odd bird
+Seed 153567 has an odd bird
+Seed 153624 does not have an odd bird
+Seed 154109 has an odd bird
+Seed 154826 has an odd bird
+Seed 155283 does not have an odd bird
+Seed 155887 does not have an odd bird
+Seed 156305 has an odd bird
+Seed 156790 has an odd bird
+Seed 156840 has an odd bird
+Seed 156915 has an odd bird
+Seed 157172 has an odd bird
+Seed 157958 has an odd bird
+Seed 159154 has an odd bird
+Seed 159206 has an odd bird
+Seed 160593 does not have an odd bird
+Seed 161232 has an odd bird
+Seed 161275 has an odd bird
+Seed 161299 has an odd bird
+Seed 162778 has an odd bird
+Seed 163627 has an odd bird
+Seed 163869 has an odd bird
+Seed 164033 has an odd bird
+Seed 164501 has an odd bird
+Seed 164570 has an odd bird
+Seed 165178 has an odd bird
+Seed 165382 has an odd bird
+Seed 165529 has an odd bird
+Seed 165776 has an odd bird
+Seed 165800 has an odd bird
+Seed 166128 has an odd bird
+Seed 166388 has an odd bird
+Seed 168436 has an odd bird
+Seed 168495 has an odd bird
+Seed 170026 does not have an odd bird
+Seed 171129 has an odd bird
+Seed 171146 does not have an odd bird
+Seed 171894 has an odd bird
+Seed 173468 has an odd bird
+Seed 173594 does not have an odd bird
+Seed 174828 has an odd bird
+Seed 176365 does not have an odd bird
+Seed 177548 does not have an odd bird
+Seed 178260 has an odd bird
+Seed 178572 has an odd bird
+Seed 178621 has an odd bird
+Seed 178852 does not have an odd bird
+Seed 178982 does not have an odd bird
+Seed 179028 does not have an odd bird
+Seed 180567 has an odd bird
+Seed 181420 does not have an odd bird
+Seed 181429 has an odd bird
+Seed 181444 has an odd bird
+Seed 182738 has an odd bird
+Seed 183951 has an odd bird
+Seed 184058 has an odd bird
+Seed 184361 has an odd bird
+Seed 185988 does not have an odd bird
+Seed 186686 has an odd bird
+Seed 186833 has an odd bird
+Seed 186889 has an odd bird
+Seed 188160 has an odd bird
+Seed 188338 has an odd bird
+Seed 188649 has an odd bird
+Seed 189403 has an odd bird
+Seed 190647 has an odd bird
+Seed 191233 has an odd bird
+Seed 192660 has an odd bird
+Seed 193999 has an odd bird
+Seed 195466 has an odd bird
+Seed 195565 has an odd bird
+Seed 196595 has an odd bird
+Seed 197379 has an odd bird
+Seed 197781 has an odd bird
+Seed 197979 has an odd bird
+Seed 198302 does not have an odd bird
+Seed 198505 has an odd bird
+Seed 198520 has an odd bird
+Seed 199121 has an odd bird
+Seed 199400 has an odd bird
+Seed 199429 has an odd bird
+Seed 199619 does not have an odd bird
+Seed 199785 has an odd bird
+Seed 199949 has an odd bird
+Seed 200052 has an odd bird
+Seed 202527 has an odd bird
+Seed 203159 does not have an odd bird
+Seed 204536 has an odd bird
+Seed 204856 does not have an odd bird
+Seed 206039 does not have an odd bird
+Seed 206068 has an odd bird
+Seed 206148 has an odd bird
+Seed 208232 does not have an odd bird
+Seed 208333 does not have an odd bird
+Seed 208612 does not have an odd bird
+Seed 209010 has an odd bird
+Seed 209052 does not have an odd bird
+Seed 209592 does not have an odd bird
+Seed 209760 has an odd bird
+Seed 210214 has an odd bird
+Seed 210281 has an odd bird
+Seed 210362 has an odd bird
+Seed 211451 has an odd bird
+Seed 211920 has an odd bird
+Seed 212777 does not have an odd bird
+Seed 213570 does not have an odd bird
+Seed 214263 has an odd bird
+Seed 216061 has an odd bird
+Seed 217294 has an odd bird
+Seed 217519 does not have an odd bird
+Seed 217894 has an odd bird
+Seed 219631 has an odd bird
+Seed 219682 has an odd bird
+Seed 219810 has an odd bird
+Seed 220037 has an odd bird
+Seed 220052 has an odd bird
+Seed 220225 has an odd bird
+Seed 221245 has an odd bird
+Seed 221350 has an odd bird
+Seed 221602 does not have an odd bird
+Seed 222718 has an odd bird
+Seed 222843 has an odd bird
+Seed 223600 has an odd bird
+Seed 223756 has an odd bird
+Seed 224232 has an odd bird
+Seed 224918 has an odd bird
+Seed 225175 has an odd bird
+Seed 228258 has an odd bird
+Seed 228420 has an odd bird
+Seed 228949 does not have an odd bird
+Seed 229972 has an odd bird
+Seed 230433 does not have an odd bird
+Seed 230506 has an odd bird
+Seed 230553 has an odd bird
+Seed 231266 has an odd bird
+Seed 231931 has an odd bird
+Seed 232068 has an odd bird
+Seed 232133 does not have an odd bird
+Seed 233669 has an odd bird
+Seed 233796 has an odd bird
+Seed 235166 has an odd bird
+Seed 235214 has an odd bird
+Seed 235803 has an odd bird
+Seed 236022 has an odd bird
+Seed 236487 does not have an odd bird
+Seed 237525 does not have an odd bird
+Seed 238198 has an odd bird
+Seed 238555 has an odd bird
+Seed 239162 does not have an odd bird
+Seed 239586 does not have an odd bird
+Seed 240773 has an odd bird
+Seed 242103 has an odd bird
+Seed 242149 has an odd bird
+Seed 242289 does not have an odd bird
+Seed 242368 has an odd bird
+Seed 242457 does not have an odd bird
+Seed 243196 has an odd bird
+Seed 243202 does not have an odd bird
+Seed 243323 has an odd bird
+Seed 243432 has an odd bird
+Seed 244266 has an odd bird
+Seed 244467 has an odd bird
+Seed 244550 has an odd bird
+Seed 244969 has an odd bird
+Seed 245442 does not have an odd bird
+Seed 248456 has an odd bird
+Seed 248498 has an odd bird
+Seed 248597 has an odd bird
+Seed 248942 has an odd bird
+Seed 249841 has an odd bird
+Seed 250492 does not have an odd bird
+Seed 250983 has an odd bird
+Seed 251239 does not have an odd bird
+Seed 251605 has an odd bird
+Seed 251903 does not have an odd bird
+Seed 252583 does not have an odd bird
+Seed 252925 has an odd bird
+Seed 253193 does not have an odd bird
+Seed 254358 has an odd bird
+Seed 254800 has an odd bird
+Seed 256259 has an odd bird
+Seed 256285 does not have an odd bird
+Seed 256433 has an odd bird
+Seed 256730 has an odd bird
+Seed 257477 has an odd bird
+Seed 257761 has an odd bird
+Seed 258153 has an odd bird
+Seed 258693 does not have an odd bird
+Seed 258879 has an odd bird
+Seed 258968 has an odd bird
+Seed 259550 does not have an odd bird
+Seed 260024 has an odd bird
+Seed 260207 has an odd bird
+Seed 261352 has an odd bird
+Seed 261927 does not have an odd bird
+Seed 264985 does not have an odd bird
+Seed 265710 has an odd bird
+Seed 265881 has an odd bird
+Seed 265895 has an odd bird
+Seed 265978 has an odd bird
+Seed 266310 has an odd bird
+Seed 266388 has an odd bird
+Seed 266806 has an odd bird
+Seed 266977 has an odd bird
+Seed 267420 has an odd bird
+Seed 267526 has an odd bird
+Seed 267829 has an odd bird
+Seed 267966 has an odd bird
+Seed 268147 does not have an odd bird
+Seed 268319 does not have an odd bird
+Seed 268710 has an odd bird
+Seed 268726 has an odd bird
+Seed 268813 does not have an odd bird
+Seed 269198 has an odd bird
+Seed 270587 has an odd bird
+Seed 271078 has an odd bird
+Seed 271389 has an odd bird
+Seed 272422 has an odd bird
+Seed 272474 has an odd bird
+Seed 272557 does not have an odd bird
+Seed 273306 does not have an odd bird
+Seed 273415 has an odd bird
+Seed 274440 has an odd bird
+Seed 274560 has an odd bird
+Seed 275373 has an odd bird
+Seed 275598 does not have an odd bird
+Seed 275714 has an odd bird
+Seed 277207 has an odd bird
+Seed 277442 has an odd bird
+Seed 278478 has an odd bird
+Seed 278990 has an odd bird
+Seed 279611 has an odd bird
+Seed 279862 has an odd bird
+Seed 280754 has an odd bird
+Seed 281350 has an odd bird
+Seed 281826 has an odd bird
+Seed 282697 has an odd bird
+Seed 283741 has an odd bird
+Seed 284002 has an odd bird
+Seed 284820 has an odd bird
+Seed 285028 has an odd bird
+Seed 285350 does not have an odd bird
+Seed 285868 has an odd bird
+Seed 286479 has an odd bird
+Seed 286482 has an odd bird
+Seed 286789 has an odd bird
+Seed 286801 does not have an odd bird
+Seed 287762 has an odd bird
+Seed 288364 has an odd bird
+Seed 289157 has an odd bird
+Seed 289914 does not have an odd bird
+Seed 290313 has an odd bird
+Seed 290763 has an odd bird
+Seed 291569 has an odd bird
+Seed 291712 has an odd bird
+Seed 292222 has an odd bird
+Seed 292785 has an odd bird
+Seed 293237 has an odd bird
+Seed 293277 has an odd bird
+Seed 293852 does not have an odd bird
+Seed 294810 has an odd bird
+Seed 295080 does not have an odd bird
+Seed 295173 has an odd bird
+Seed 295486 has an odd bird
+Seed 295596 has an odd bird
+Seed 297045 has an odd bird
+Seed 297727 has an odd bird
+Seed 298222 does not have an odd bird
+Seed 298629 has an odd bird
+Seed 298647 does not have an odd bird
+Seed 298909 has an odd bird
+Seed 301027 has an odd bird
+Seed 301774 does not have an odd bird
+Seed 301850 does not have an odd bird
+Seed 302122 has an odd bird
+Seed 303137 has an odd bird
+Seed 303152 has an odd bird
+Seed 303976 has an odd bird
+Seed 304582 has an odd bird
+Seed 305420 has an odd bird
+Seed 306176 has an odd bird
+Seed 306359 has an odd bird
+Seed 306496 has an odd bird
+Seed 307814 does not have an odd bird
+Seed 308059 has an odd bird
+Seed 308542 has an odd bird
+Seed 308552 has an odd bird
+Seed 308602 has an odd bird
+Seed 309393 has an odd bird
+Seed 309462 has an odd bird
+Seed 309560 has an odd bird
+Seed 309764 has an odd bird
+Seed 310330 has an odd bird
+Seed 310440 has an odd bird
+Seed 310517 has an odd bird
+Seed 310795 has an odd bird
+Seed 310850 has an odd bird
+Seed 310852 does not have an odd bird
+Seed 311285 has an odd bird
+Seed 311408 has an odd bird
+Seed 312668 has an odd bird
+Seed 312919 has an odd bird
+Seed 313172 has an odd bird
+Seed 313409 has an odd bird
+Seed 313541 has an odd bird
+Seed 314337 has an odd bird
+Seed 315206 has an odd bird
+Seed 315427 has an odd bird
+Seed 315948 has an odd bird
+Seed 316407 has an odd bird
+Seed 316802 has an odd bird
+Seed 317351 has an odd bird
+Seed 318397 has an odd bird
+Seed 318898 has an odd bird
+Seed 320088 has an odd bird
+Seed 320895 has an odd bird
+Seed 321614 has an odd bird
+Seed 322320 has an odd bird
+Seed 323560 has an odd bird
+Seed 324223 has an odd bird
+Seed 324407 has an odd bird
+Seed 327648 does not have an odd bird
+Seed 328098 has an odd bird
+Seed 328734 has an odd bird
+Seed 329233 has an odd bird
+Seed 329739 has an odd bird
+Seed 330031 has an odd bird
+Seed 330273 has an odd bird
+Seed 330774 has an odd bird
+Seed 331080 has an odd bird
+Seed 331322 has an odd bird
+Seed 333592 has an odd bird
+Seed 334220 has an odd bird
+Seed 334803 has an odd bird
+Seed 334970 does not have an odd bird
+Seed 335120 has an odd bird
+Seed 335147 does not have an odd bird
+Seed 335667 has an odd bird
+Seed 335734 has an odd bird
+Seed 336806 has an odd bird
+Seed 337211 has an odd bird
+Seed 338271 has an odd bird
+Seed 338534 has an odd bird
+Seed 338893 has an odd bird
+Seed 339383 has an odd bird
+Seed 340487 has an odd bird
+Seed 340491 has an odd bird
+Seed 340729 has an odd bird
+Seed 340946 has an odd bird
+Seed 342117 does not have an odd bird
+Seed 342322 has an odd bird
+Seed 343406 has an odd bird
+Seed 343550 does not have an odd bird
+Seed 345494 has an odd bird
+Seed 346304 has an odd bird
+Seed 346609 has an odd bird
+Seed 347365 does not have an odd bird
+Seed 348770 has an odd bird
+Seed 350436 has an odd bird
+Seed 350989 has an odd bird
+Seed 351249 has an odd bird
+Seed 351410 does not have an odd bird
+Seed 353508 has an odd bird
+Seed 353521 does not have an odd bird
+Seed 355073 has an odd bird
+Seed 355770 has an odd bird
+Seed 356088 has an odd bird
+Seed 357523 has an odd bird
+Seed 357927 has an odd bird
+Seed 358896 has an odd bird
+Seed 359560 has an odd bird
+Seed 360028 has an odd bird
+Seed 360342 has an odd bird
+Seed 360528 does not have an odd bird
+Seed 360694 has an odd bird
+Seed 360706 has an odd bird
+Seed 360837 has an odd bird
+Seed 361227 does not have an odd bird
+Seed 361591 does not have an odd bird
+Seed 361663 has an odd bird
+Seed 362747 does not have an odd bird
+Seed 363658 has an odd bird
+Seed 365139 has an odd bird
+Seed 366000 does not have an odd bird
+Seed 366658 has an odd bird
+Seed 367439 has an odd bird
+Seed 367460 has an odd bird
+Seed 368246 has an odd bird
+Seed 368397 has an odd bird
+Seed 368466 does not have an odd bird
+Seed 368959 has an odd bird
+Seed 369001 has an odd bird
+Seed 369689 has an odd bird
+Seed 370165 has an odd bird
+Seed 370365 does not have an odd bird
+Seed 371389 has an odd bird
+Seed 371746 has an odd bird
+Seed 371827 does not have an odd bird
+Seed 372178 has an odd bird
+Seed 372315 does not have an odd bird
+Seed 372529 has an odd bird
+Seed 372613 has an odd bird
+Seed 375155 does not have an odd bird
+Seed 375720 has an odd bird
+Seed 376264 has an odd bird
+Seed 377180 does not have an odd bird
+Seed 378291 has an odd bird
+Seed 378521 has an odd bird
+Seed 378959 has an odd bird
+Seed 379403 has an odd bird
+Seed 379518 has an odd bird
+Seed 379635 has an odd bird
+Seed 379652 has an odd bird
+Seed 380358 has an odd bird
+Seed 381596 has an odd bird
+Seed 381847 does not have an odd bird
+Seed 384073 has an odd bird
+Seed 384680 has an odd bird
+Seed 385051 has an odd bird
+Seed 385392 has an odd bird
+Seed 385550 does not have an odd bird
+Seed 385594 does not have an odd bird
+Seed 385678 has an odd bird
+Seed 386465 has an odd bird
+Seed 386843 has an odd bird
+Seed 387383 does not have an odd bird
+Seed 387976 has an odd bird
+Seed 388221 does not have an odd bird
+Seed 388341 has an odd bird
+Seed 388441 has an odd bird
+Seed 388599 does not have an odd bird
+Seed 388668 has an odd bird
+Seed 390397 has an odd bird
+Seed 390567 does not have an odd bird
+Seed 390784 has an odd bird
+Seed 391742 has an odd bird
+Seed 391800 has an odd bird
+Seed 391861 has an odd bird
+Seed 391985 has an odd bird
+Seed 392419 has an odd bird
+Seed 392724 has an odd bird
+Seed 392733 has an odd bird
+Seed 393190 has an odd bird
+Seed 394213 has an odd bird
+Seed 394295 has an odd bird
+Seed 394746 has an odd bird
+Seed 395123 has an odd bird
+Seed 395161 has an odd bird
+Seed 396629 has an odd bird
+Seed 396973 has an odd bird
+Seed 398145 has an odd bird
+Seed 398655 does not have an odd bird
+Seed 398964 has an odd bird
+Seed 399572 has an odd bird
+Seed 399798 has an odd bird
+Seed 401122 does not have an odd bird
+Seed 401377 has an odd bird
+Seed 401998 has an odd bird
+Seed 402217 has an odd bird
+Seed 402957 has an odd bird
+Seed 403265 has an odd bird
+Seed 403553 does not have an odd bird
+Seed 403867 has an odd bird
+Seed 404339 has an odd bird
+Seed 405399 has an odd bird
+Seed 406086 does not have an odd bird
+Seed 406359 has an odd bird
+Seed 406483 has an odd bird
+Seed 406769 does not have an odd bird
+Seed 408547 has an odd bird
+Seed 408845 has an odd bird
+Seed 409152 has an odd bird
+Seed 409979 does not have an odd bird
+Seed 410018 has an odd bird
+Seed 410116 has an odd bird
+Seed 410148 has an odd bird
+Seed 410482 has an odd bird
+Seed 410964 has an odd bird
+Seed 411077 has an odd bird
+Seed 411706 has an odd bird
+Seed 412136 has an odd bird
+Seed 413704 has an odd bird
+Seed 413826 has an odd bird
+Seed 413919 has an odd bird
+Seed 414040 has an odd bird
+Seed 414177 has an odd bird
+Seed 415776 has an odd bird
+Seed 417023 has an odd bird
+Seed 417416 does not have an odd bird
+Seed 418869 has an odd bird
+Seed 419634 has an odd bird
+Seed 420318 does not have an odd bird
+Seed 420629 has an odd bird
+Seed 420777 does not have an odd bird
+Seed 420978 does not have an odd bird
+Seed 421144 does not have an odd bird
+Seed 421735 has an odd bird
+Seed 422440 has an odd bird
+Seed 422670 has an odd bird
+Seed 423318 has an odd bird
+Seed 423697 has an odd bird
+Seed 424286 has an odd bird
+Seed 424541 has an odd bird
+Seed 425469 has an odd bird
+Seed 426070 has an odd bird
+Seed 426574 does not have an odd bird
+Seed 426798 has an odd bird
+Seed 427161 does not have an odd bird
+Seed 429877 does not have an odd bird
+Seed 430459 has an odd bird
+Seed 430815 has an odd bird
+Seed 432195 has an odd bird
+Seed 432339 has an odd bird
+Seed 433533 has an odd bird
+Seed 434534 does not have an odd bird
+Seed 434655 does not have an odd bird
+Seed 435226 has an odd bird
+Seed 435424 has an odd bird
+Seed 436432 has an odd bird
+Seed 436493 does not have an odd bird
+Seed 437598 does not have an odd bird
+Seed 437745 has an odd bird
+Seed 438373 does not have an odd bird
+Seed 439394 has an odd bird
+Seed 439567 has an odd bird
+Seed 440247 has an odd bird
+Seed 440768 has an odd bird
+Seed 441037 has an odd bird
+Seed 441191 has an odd bird
+Seed 441475 has an odd bird
+Seed 441814 does not have an odd bird
+Seed 442814 has an odd bird
+Seed 443460 has an odd bird
+Seed 443970 has an odd bird
+Seed 444146 has an odd bird
+Seed 445291 has an odd bird
+Seed 445802 has an odd bird
+Seed 446541 does not have an odd bird
+Seed 447654 has an odd bird
+Seed 449263 has an odd bird
+Seed 450429 has an odd bird
+Seed 451107 has an odd bird
+Seed 451256 has an odd bird
+Seed 451942 has an odd bird
+Seed 452127 has an odd bird
+Seed 452358 has an odd bird
+Seed 453135 does not have an odd bird
+Seed 453233 has an odd bird
+Seed 453777 has an odd bird
+Seed 454563 has an odd bird
+Seed 455209 has an odd bird
+Seed 455454 has an odd bird
+Seed 456248 has an odd bird
+Seed 456706 does not have an odd bird
+Seed 456880 has an odd bird
+Seed 457179 has an odd bird
+Seed 457545 has an odd bird
+Seed 458083 has an odd bird
+Seed 458448 has an odd bird
+Seed 458601 has an odd bird
+Seed 459117 has an odd bird
+Seed 460658 has an odd bird
+Seed 462112 does not have an odd bird
+Seed 462333 has an odd bird
+Seed 462899 has an odd bird
+Seed 463074 has an odd bird
+Seed 463083 has an odd bird
+Seed 463603 has an odd bird
+Seed 463839 has an odd bird
+Seed 463869 does not have an odd bird
+Seed 464460 has an odd bird
+Seed 465355 has an odd bird
+Seed 465975 has an odd bird
+Seed 466692 has an odd bird
+Seed 468674 has an odd bird
+Seed 468846 has an odd bird
+Seed 469541 does not have an odd bird
+Seed 469667 has an odd bird
+Seed 469741 has an odd bird
+Seed 469954 has an odd bird
+Seed 469989 has an odd bird
+Seed 470290 has an odd bird
+Seed 470377 has an odd bird
+Seed 471190 has an odd bird
+Seed 471305 does not have an odd bird
+Seed 473580 has an odd bird
+Seed 473704 has an odd bird
+Seed 474000 has an odd bird
+Seed 474036 has an odd bird
+Seed 474329 has an odd bird
+Seed 474767 has an odd bird
+Seed 475770 has an odd bird
+Seed 477342 has an odd bird
+Seed 477521 has an odd bird
+Seed 479783 has an odd bird
+Seed 480072 has an odd bird
+Seed 480848 has an odd bird
+Seed 483823 does not have an odd bird
+Seed 484082 has an odd bird
+Seed 484481 does not have an odd bird
+Seed 487351 has an odd bird
+Seed 487703 has an odd bird
+Seed 488157 has an odd bird
+Seed 488189 has an odd bird
+Seed 489037 does not have an odd bird
+Seed 489253 has an odd bird
+Seed 489501 has an odd bird
+Seed 489592 has an odd bird
+Seed 490060 has an odd bird
+Seed 491469 has an odd bird
+Seed 491818 has an odd bird
+Seed 492223 has an odd bird
+Seed 492546 has an odd bird
+Seed 492724 has an odd bird
+Seed 492922 does not have an odd bird
+Seed 494019 does not have an odd bird
+Seed 494936 has an odd bird
+Seed 496334 has an odd bird
+Seed 496440 has an odd bird
+Seed 497085 has an odd bird
+Seed 498263 has an odd bird
+Seed 498457 has an odd bird
+Seed 498552 has an odd bird
+Seed 498726 has an odd bird
+Seed 498801 has an odd bird
+Seed 499232 has an odd bird
