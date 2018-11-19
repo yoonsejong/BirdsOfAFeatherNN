@@ -1,0 +1,26 @@
+Min Time	Max Time	Number of Seeds		Unsolvable
+0		2		970853			3
+2 		5		18811			7 	
+5		10		3505			15
+10		15		1147			7 
+15		20		659			9
+20		25		458			11
+25		30		370			7
+30		35		181			6
+35		40		181			6
+40		45		194			12
+45		50		140			8
+50		55		95			6
+55		60		134			4
+60		>60		3272			1762
+
+
+Total Number of Seeds: 1,000,000
+Total Number of Unsolvable Seeds: 1863
+Total number of Solvable Seeds: 998,137
+
+			solvable	unsolvable
+total:			998,137		1863
+50% training:		499,069		931
+30% validation:		299,441		560
+20% test:		199,627		372
