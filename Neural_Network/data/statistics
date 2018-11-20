@@ -1,0 +1,390 @@
+solvable: 636114
+unsolvable: 729346
+
+their training set - our testing set: 50%
+our training set - their testing set: 51/52%
+	52% their set - 58% our set
+	50% their set - 69% our set
+their training set - their testing set: 69%/70%
+
+upgraded features - 48% validation/50% testing
+		    50.5% validation/54.6% testing
+		    48.8% validation/47.6% testing
+
+combined data - 72.5% validation/incorrect testing size, unknown
+
+using uniqueness of cards - 
+	epochs (500), scheduler (130)
+		90.0% validation/90.3% testing
+		88.7% validation/88.8% testing
+		88.6% validation/89.1% testing
+
+	epochs (500), no scheduler
+		87.5% validation/89.4% testing
+		88.9% validation/88.7% testing
+		87.1% validation/86.7% testing
+
+	epochs (500), scheduler (160)			    
+		88.7% validation/88.7% testing
+		88.0% validation/87.5% testing
+		84.5% validation/84.9% testing
+		
+	epochs (300), scheduler (130)
+		85.4% validation/87.6% testing
+		89.3% validation/89.8% testing
+		78.6% validation/80.1% testing
+
+	epochs (400), scheduler (130)
+		89.1% validation/89.7% testing
+		91.1% validation/88.3% testing
+		89.0% validation/89.7% testing
+
+	epochs (600), scheduler (200)
+		88.2% validation/88.4% testing
+		81.2% validation/83.1% testing
+		83.7% validation/82.3% testing
+	
+	epochs (600), scheduler (130)
+		89.5% validation/88.7% testing
+		89.6% validation/91.5% testing
+		89.9% validation/89.9% testing
+
+using uniqueness of cards on combined dataset - 
+	epochs (500), scheduler (130), batch size (10,000), learning rate (0.001)
+		76.3% validation/76.6% testing
+		76.6% validation/76.7% testing
+
+	epochs (5000), scheduler (1300), batch size (10,000), learning rate (0.001)
+		76.6% validation/76.3% testing
+
+	epochs (500), scheduler (130), batch size (10,000), learning rate (0.01)
+		76.6% validation/76.7% testing
+
+	epochs (600), scheduler (130), batch size (10,000), learning rate (0.1)
+		60.2% validation/63.4% testing
+	
+	epochs (500), scheduler (130), batch size (10,000), learning rate (0.0001)
+		74.3% validation/74.6% testing
+
+using uniqueness on their set only - 
+	epochs (500), scheduler (130), batch size (10,000), learning rate (0.001)
+		76.6% validation/76.7% testing
+
+	epochs (5000), scheduler (1300), batch size (10,000), learning rate (0.001)
+		76.7% validation/76.9% testing
+
+	epochs (500), scheduler (130), batch size (10,000), learning rate (0.01)
+		76.6% validation/76.8% testing
+
+	epochs (600), scheduler (130), batch size (10,000), learning rate (0.001)
+		75.6% validation/75.9% testing
+
+	epochs (500), scheduler (130), batch size (10,000), learning rate (0.0001)
+		75.1% validation/75.4% testing
+	
+	epochs (600), scheduler (130), batch size (10,000), learning rate (0.1)
+		76.6% validation/76.8% testing
+		60.3% validation/63.4% testing
+
+using uniqueness train ours, test theirs - 
+training size = 1862
+validation size (their data) = 1393430
+testing size (our data) = 1807
+	epochs (500), scheduler (130)
+		64.4% validation/89.0% testing
+		65.2% validation/87.8% testing
+		68.1% validation/89.5% testing
+	
+	epochs (500), no scheduler
+		64.4% validation/85.6% testing
+		63.5% validation/89.5% testing
+
+	epochs (500), scheduler (160)			    
+		65.9% validation/89.2% testing
+		58.7% validation/89.0% testing
+
+using uniqueness train theirs, test ours - 
+training size = 682728
+validation size (their data) = 710702
+testing size (our data) = 3669
+	epochs (500), scheduler (130), batch size (10,000), learning rate (0.001)
+		76.6% validation/89.9% testing
+		76.1% validation/61.1% testing
+
+	epochs (500), scheduler (130), batch size (10,000), learning rate (0.01)
+		76.6% validation/89.9% testing
+		76.7% validation/89.9% testing
+
+	epochs (500), scheduler (130), batch size (10,000), learning rate (0.0001)
+		74.9% validation/49.9% testing
+		74.6% validation/49.9% testing
+
+16 layers w/ convolution
+	90.0% validation	90.3% testing
+	90.7% validation	90.5% testing
+	87.4% validation	87.5% testing
+	89.1% validation	89.5% testing
+	50.0% validation	50.0% testing (loss stalled)
+	50.0% validation	50.0% testing (loss stalled)
+	74.8% validation	75.7% testing
+	50.0% validation	50.0% testing (loss stalled)
+	82.2% validation	83.7% testing
+	56.9% validation	53.6% testing (loss stalled)
+
+15 layers w/ convolution
+	89.7% validation	89.1% testing
+	88.8% validation	90.1% testing
+	90.0% validation	88.7% testing
+	90.9% validation	91.8% testing
+	69.1% validation	73.4% testing
+	50.0% validation	50.0% testing (loss stalled)
+	89.3% validation	89.7% testing
+	50.0% validation	50.0% testing (loss stalled)
+	50.0% validation	50.0% testing (loss stalled)
+	76.9% validation	79.6% testing
+
+14 layers w/ convolution
+	88.8% validation	91.0% testing
+	83.1% validation	83.7% testing
+	89.0% validation	88.7% testing
+	88.2% validation	88.3% testing
+	89.3% validation	90.2% testing
+	50.0% validation	50.0% testing (loss stalled)
+	81.5% validation	82.0% testing
+	78.8% validation	77.7% testing
+	90.5% validation	89.9% testing
+	50.0% validation	50.0% testing (loss stalled)
+
+13 layers w/ convolution
+	90.4% validation	90.5% testing
+	91.1% validation	91.1% testing
+	50.0% validation	50.0% testing (loss stalled)
+	76.4% validation	75.0% testing
+	90.1% validation	90.2% testing
+	50.0% validation	50.0% testing (loss stalled)
+	89.2% validation	88.6% testing
+	50.0% validation	50.0% testing (loss stalled)
+	89.2% validation	88.3% testing
+	89.2% validation	89.4% testing
+
+12 layers w/ convolution
+	88.8% validation	89.0% testing
+	73.4% validation	75.3% testing
+	50.0% validation	50.0% testing (loss stalled)
+	50.0% validation	50.0% testing (loss stalled)
+	50.0% validation	50.0% testing (loss stalled)
+	89.2% validation	89.8% testing
+	55.2% validation	52.8% testing
+	77.4% validation	79.6% testing
+	55.7% validation	52.7% testing
+	88.8% validation	89.5% testing
+
+11 layers w/ convolution
+	90.1% validation	89.8% testing
+	89.6% validation	90.1% testing
+	89.0% validation	89.2% testing
+	50.0% validation	50.0% testing (loss stalled)
+	50.0% validation	50.0% testing (loss stalled)
+	88.1% validation	89.5% testing
+	89.1% validation	89.4% testing
+	85.3% validation	84.8% testing
+	89.5% validation	90.6% testing
+	88.7% validation	87.9% testing
+
+10 layers w/ convolution
+	89.1% validation	89.5% testing
+	88.9% validation	87.6% testing
+	77.9% validation	76.7% testing
+	50.0% validation	50.0% testing (loss stalled)
+	87.9% validation	88.6% testing
+	90.9% validation	90.6% testing
+	89.8% validation	87.4% testing
+	88.8% validation	88.0% testing
+	89.6% validation	88.2% testing
+	50.0% validation	50.0% testing (loss stalled)
+
+9 layers w/ convolution
+	88.0% validation	88.7% testing
+	89.6% validation	89.5% testing
+	89.8% validation	89.1% testing
+	90.8% validation	91.4% testing
+	50.0% validation	50.0% testing (loss stalled)
+	87.9% validation	88.3% testing
+	77.1% validation	75.3% testing
+	89.4% validation	88.8% testing
+	89.9% validation	89.8% testing
+	90.0% validation	89.0% testing
+
+8 layers w/ convolution
+	88.7% validation	88.7% testing
+	89.9% validation	89.9% testing
+	50.0% validation	50.0% testing (loss stalled)
+	90.8% validation	89.7% testing
+	50.0% validation	50.0% testing (loss stalled)
+	88.5% validation	89.0% testing
+	50.0% validation	50.0% testing (loss stalled)
+	50.0% validation	50.0% testing (loss stalled)
+	54.6% validation	53.1% testing
+	87.2% validation	88.8% testing
+
+7 layers w/ convolution
+	90.2% validation	89.2% testing
+	89.4% validation	90.2% testing
+	89.5% validation	89.0% testing
+	89.5% validation	90.1% testing
+	88.6% validation	87.1% testing
+	88.8% validation	88.6% testing
+	50.0% validation	50.0% testing (loss stalled)
+	90.5% validation	89.2% testing
+	90.8% validation	91.3% testing
+	89.5% validation	89.4% testing
+
+6 layers w/ convolution
+	90.4% validation	90.5% testing
+	90.0% validation	90.5% testing
+	50.0% validation	50.0% testing (loss stalled)
+	50.0% validation	50.0% testing (loss stalled)
+	90.0% validation	91.0% testing
+	89.5% validation	90.1% testing
+	90.7% validation	90.7% testing
+	57.6% validation	55.2% testing
+	80.8% validation	81.9% testing
+	75.9% validation	79.4% testing
+
+5 layers w/ convolution
+	87.2% validation	87.8% testing
+	89.2% validation	89.0% testing
+	88.1% validation	88.3% testing
+	50.0% validation	50.0% testing (loss stalled)
+	67.6% validation	69.2% testing
+	87.9% validation	86.4% testing
+	90.1% validation	90.5% testing
+	90.7% validation	90.5% testing
+	89.6% validation	89.8% testing
+	88.9% validation	88.7% testing
+
+4 layers w/ convolution
+	89.4% validation	90.9% testing
+	90.7% validation	91.5% testing
+	89.9% validation	89.9% testing
+	50.0% validation	50.0% testing (loss stalled)
+	50.0% validation	50.0% testing (loss stalled)
+	88.8% validation	89.7% testing
+	89.6% validation	90.9% testing
+	90.4% validation	89.7% testing
+	50.0% validation	50.0% testing (loss stalled)
+	88.8% validation	88.6% testing
+
+3 layers w/ convolution
+	91.1% validation	90.5% testing
+	90.5% validation	89.5% testing
+	90.1% validation	91.9% testing
+	90.0% validation	90.3% testing
+	90.0% validation	89.9% testing
+	90.5% validation	91.3% testing
+	50.0% validation	50.0% testing (loss stalled)
+	91.0% validation	91.1% testing
+	91.2% validation	90.7% testing
+	63.1% validation	61.8% testing
+
+2 layers w/ convolution
+	89.6% validation	89.7% testing
+	90.3% validation	90.3% testing
+	90.9% validation	91.0% testing
+	90.5% validation	90.9% testing
+	89.6% validation	90.6% testing
+	90.4% validation	91.0% testing
+	90.1% validation	90.5% testing
+	85.6% validation	86.6% testing
+	89.7% validation	89.5% testing
+	90.4% validation	91.3% testing
+
+1 layers w/ convolution
+	90.8% validation	90.9% testing
+	90.1% validation	90.1% testing
+	90.6% validation	91.5% testing
+	91.1% validation	91.1% testing
+	90.4% validation	90.9% testing
+	90.2% validation	91.1% testing
+	90.9% validation	90.9% testing
+	90.8% validation	91.1% testing
+	89.6% validation	90.1% testing
+	90.6% validation	90.9% testing
+
+
+N = 684590
+N_valid = 364142
+N_test = 348200
+
+w/ CNN vs w/o CNN
+	w/0 CNN						w/CNN
+all	76.5% validation	76.7% testing		76.4% validation	76.6% testing
+our	67.3% validation	68.5% testing		90.1% validation	90.6% testing
+their
+
+	shrinking					no shrinking
+all	76.4% validation	76.6% testing		76.4% validation	76.6% testing
+our	90.1% validation	90.6% testing		88.9% validation	89.8% testing
+their
+
+different layers
+	30 layers
+		(8*2*2 in, 60 out first layer)
+
+	25 layers
+		(8*2*2 in, 50 out first layer)
+
+	20 layers
+		(8*2*2 in, 40 out first layer)
+		76.6% validation	76.7% testing
+
+	10 layers 
+		(16 in, 2 out last layer)
+		76.5% validation	76.7% testing
+		76.6% validation	76.7% testing
+		76.5% validation	76.7% testing
+		76.5% validation	76.6% testing
+		76.6% validation	76.8% testing
+	
+		(8*2*2 in, 20 out first layer)
+		76.0% validation	76.3% testing
+		76.4% validation	76.6% testing
+		75.6% validation	75.9% testing
+	
+	5 layers 
+		(26 in, 2 out last layer)
+		76.7% validation	76.8% testing
+		76.6% validation	76.7% testing
+		76.8% validation	76.8% testing
+		76.5% validation	76.7% testing
+		76.6% validation	76.9% testing
+
+		(8*2*2 in, 10 out first layer)
+		76.3% validation	76.5% testing
+		75.5% validation	75.6% testing
+		76.1% validation	76.4% testing
+		75.8% validation	76.1% testing
+		75.9% validation	76.2% testing
+
+	3 layers
+		(30 in, 2 out last layer)
+		76.5% validation	76.7% testing
+		76.4% validation	76.6% testing
+		76.4% validation	76.7% testing
+		76.6% validation	76.8% testing
+		76.6% validation	76.8% testing
+
+		(8*2*2, 6 out first layer)
+		75.4% validation	75.5% testing
+		76.0% validation	76.1% testing
+		76.2% validation	76.4% testing
+		75.8% validation	76.0% testing
+		76.5% validation	76.8% testing
+
+	1 layer
+		(8*2*2 in, 2 out last layer)
+		75.4% validation	75.5% testing
+		75.3% validation	75.4% testing
+		75.1% validation	75.1% testing
+		75.2% validation	75.3% testing
+		75.1% validation	75.2% testing
