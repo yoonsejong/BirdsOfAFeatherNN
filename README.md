@@ -21,3 +21,10 @@
 4. Now moving into running the Neural Network, switch over to the python IDE being used and move the converted feature datasets into the same workspace (in the data folder) and change the file locations betweek lines 34 and 61 in Birds_Of_A_Feather_NN.py to their respective dataset locations. It is highly recommended to make a copy of the dataset being used in a separate folder within the data fold as to not confuse the results for each experiment (since all files being run are named the same thing).
 
 5. Once everything is in place, run Birds_Of_A_Feather_NN.py. Results should be printed out at the end of the program.
+
+### Citation
+If you found this code/data useful for your work, please consider citing the publication below:
+
+- Sang, B., & Yoon, S. (2019). A Neural Network Approach for Birds of a Feather Solvability Prediction. Proceedings of the AAAI Conference on Artificial Intelligence, 33(01), 9706-9712. 
+  - DOI: https://doi.org/10.1609/aaai.v33i01.33019706 
+  - PDF: https://aaai.org/ojs/index.php/AAAI/article/view/5037
